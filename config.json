@@ -1,0 +1,8 @@
+{
+    "email": {
+        "user": "notify@qsx.io",
+        "password": "",
+        "host": "smtp.exmail.qq.com",
+        "ssl": true
+    }
+}

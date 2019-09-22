@@ -1,0 +1,5 @@
+{
+    "name": "ont_round_alert",
+    "script": "index.js",
+    "restart_delay": 600000
+}
